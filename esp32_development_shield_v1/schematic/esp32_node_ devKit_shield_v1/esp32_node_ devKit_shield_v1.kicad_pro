@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -472,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32 NodeMCU DevKit Shield V1.kicad_pro",
+    "filename": "esp32_node_ devKit_shield_v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -508,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../PCB/GerberFiles/",
+      "plot": "../../pcb/gerber_files/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -520,7 +536,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "/var/home/antzacalie/Desktop/esp32WROOM32-NodeMCU-DevKitC.csv",
+    "bom_export_filename": "../../pcb/bom_files/esp32_node_ devKit_shield_v1.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -639,8 +655,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ESP32 NodeMCU DevKit Shield V1.kicad_sch",
-        "name": "ESP32 NodeMCU DevKit Shield V1",
+        "filename": "esp32_node_ devKit_shield_v1.kicad_sch",
+        "name": "esp32_node_ devKit_shield_v1",
         "uuid": "7aa4ef0b-fb2e-4b99-b538-40972b87ac91"
       }
     ],
@@ -650,7 +666,7 @@
   "sheets": [
     [
       "7aa4ef0b-fb2e-4b99-b538-40972b87ac91",
-      "ESP32 NodeMCU DevKit Shield V1"
+      "esp32_node_ devKit_shield_v1"
     ]
   ],
   "text_variables": {},

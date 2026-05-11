@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.1"
+      "Version": "10.0.2"
     },
-    "CreationDate": "2026-05-10T19:33:09+03:00"
+    "CreationDate": "2026-05-11T23:19:23+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ESP32 NodeMCU DevKit Shield V1",
-      "GUID": "45535033-3220-44e6-9f64-654d43552044",
+      "Name": "esp32_node_ devKit_shield_v1",
+      "GUID": "65737033-325f-46e6-9f64-655f20646576",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-F_Cu.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-B_Cu.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-F_Paste.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-B_Paste.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-F_Silkscreen.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-B_Silkscreen.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-F_Mask.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-B_Mask.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ESP32 NodeMCU DevKit Shield V1-Edge_Cuts.gbr",
+      "Path": "esp32_node_ devKit_shield_v1-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
