@@ -19,16 +19,16 @@ Power is supplied through a modern **USB-C 6-pin connector**, compatible with an
 
 ## Features
 
-- 🔌 **USB-C Power Input** — 6-pin USB-C connector; works with any USB-C or USB-A (female-to-USB-C) charger
-- 📌 **Full GPIO Breakout** — all useful ESP32 GPIO pins exposed (bootstrapping pins excluded)
-- 🔩 **Terminal Block Connectors** — for all useful pins, ideal for permanent or semi-permanent wiring
-- 🧲 **Male Pin Headers** — Dupont-compatible, for quick breadboard or jumper wire access
-- 🧩 **ESP32 DevKit C & 32S Compatible** — both modules fit the 2×19 socket pin layout
-- ⚡ **5V Rail up to 1A** — 2 terminal blocks with 5V and GND in 1:1 configuration
-- 🔋 **5V & 3.3V Header Pins** — 2×4 header for 5V and 3.3V (max 500mA via AMS1117-3.3 regulator)
-- ⏚ **4×4 GND Header** — dedicated ground header block
-- 💡 **Power Indicator LED** — shows board is powered and ready
-- 📐 **Big, Spacious Board** — generous layout for comfortable hand soldering and clear wiring
+-  **USB-C Power Input** — 6-pin USB-C connector; works with any USB-C or USB-A (female-to-USB-C) charger
+-  **Full GPIO Breakout** — all useful ESP32 GPIO pins exposed (bootstrapping pins excluded)
+-  **Terminal Block Connectors** — for all useful pins, ideal for permanent or semi-permanent wiring
+-  **Male Pin Headers** — Dupont-compatible, for quick breadboard or jumper wire access
+-  **ESP32 DevKit C & 32S Compatible** — both modules fit the 2×19 socket pin layout
+-  **5V Rail up to 1A** — 2 terminal blocks with 5V and GND in 1:1 configuration
+-  **5V & 3.3V Header Pins** — 2×4 header for 5V and 3.3V (max 500mA via AMS1117-3.3 regulator)
+-  **4×4 GND Header** — dedicated ground header block
+-  **Power Indicator LED** — shows board is powered and ready
+-  **Big, Spacious Board** — generous layout for comfortable hand soldering and clear wiring
 
 ---
 
