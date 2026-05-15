@@ -34,10 +34,11 @@ Power is supplied through a modern **USB-C 6-pin connector**, compatible with an
 
 ## Gallery
 
-| | |
-|---|---|
-| ![Photo 1](esp32_development_shield_v1/auxiliar/screenshots/esp32_node_devKit_shield_v1.png) | ![Photo 2](esp32_development_shield_v1/auxiliar/screenshots/photo2.png) |
-| ![Photo 3](esp32_development_shield_v1/auxiliar/screenshots/photo3.png) | ![Photo 4](esp32_development_shield_v1/auxiliar/screenshots/photo4.png) |
+<p align="center">
+  <img src="esp32_development_shield_v1/auxiliar/screenshots/esp32_node_devKit_shield_v1.png" width="80%" />
+  &nbsp;&nbsp;
+  <img src="esp32_development_shield_v1/auxiliar/screenshots/physical_shield_pcb_assembly.png" width="80%" />
+</p>
 
 ---
 
