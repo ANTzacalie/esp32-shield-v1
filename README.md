@@ -36,7 +36,7 @@ Power is supplied through a modern **USB-C 6-pin connector**, compatible with an
 
 | | |
 |---|---|
-| ![Photo 1](auxiliar/screenshots/photo1.png) | ![Photo 2](auxiliar/screenshots/photo2.png) |
+| ![Photo 1](auxiliar/screenshots/shield_v1_pcb.pdf) | ![Photo 2](auxiliar/screenshots/photo2.png) |
 | ![Photo 3](auxiliar/screenshots/photo3.png) | ![Photo 4](auxiliar/screenshots/photo4.png) |
 
 ---
