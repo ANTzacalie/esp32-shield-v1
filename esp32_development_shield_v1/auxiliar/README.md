@@ -1,4 +1,4 @@
-///////////////// Components Used /////////////////
+///////////////// Components /////////////////
 
 - 1 x AMS1117 3.3 Linear Voltage Regulator;
 - 18 x Screw_Terminal_Block_1x02_P5mm or 2 x 1x18_P5mm;
@@ -14,4 +14,4 @@
 - 1 x 16V 47uF capacitor;
 - 1 x 10V 1000uF capacitor;
 
-///////////////// Components Used /////////////////
+///////////////// Components /////////////////
