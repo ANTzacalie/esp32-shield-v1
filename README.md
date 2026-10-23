@@ -37,7 +37,7 @@ Power is supplied through a modern **USB-C 6-pin connector**, compatible with an
 <p align="center">
   <img src="esp32_development_shield_v1/auxiliar/screenshots/esp32_node_devKit_shield_v1.png" width="80%" />
   &nbsp;&nbsp;
-  <img src="esp32_development_shield_v1/auxiliar/screenshots/physical_shield_pcb_assembly.png" width="80%" />
+  <img src="esp32_development_shield_v1/auxiliar/screenshots/physical_shield_pcb_assembly.jpg" width="80%" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Power is supplied through a modern **USB-C 6-pin connector**, compatible with an
 ## Demo
 
 <p align="center">
-  <img src="auxiliar/test_video/video.gif" alt="ESP32 Shield V1 Demo" width="720"/>
+  <img src="auxiliar/test_video/video.mp4" alt="ESP32 Shield V1 Demo" width="720"/>
   <!-- If using mp4: see auxiliar/test_video/video.mp4 -->
 </p>
 
