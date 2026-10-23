@@ -53,10 +53,7 @@ Power is supplied through a modern **USB-C 6-pin connector**, compatible with an
 
 ## Demo
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/38adf7bb-4b09-42fa-a934-d43c7a3f349f" controls width="600"></video>
-  <!-- If using mp4: see auxiliar/test_video/video.mp4 -->
-</p>
+https://github.com/user-attachments/assets/38adf7bb-4b09-42fa-a934-d43c7a3f349f
 
 ---
 
