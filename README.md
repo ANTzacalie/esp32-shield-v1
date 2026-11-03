@@ -9,7 +9,7 @@
 
 ## About the Project
 
-A **student electronics project** — a large, spacious development shield designed to make working with ESP32 reliable, practical, and accessible. Whether you're prototyping, learning, or building something more permanent, this board gives you the room and connectivity to do it right.
+- Shield V1 is spacious development shield designed to make working with ESP32 reliable, practical, and accessible. Whether you're prototyping, learning, or building something more permanent, this board gives you the room and connectivity to do it right.
 
 The ESP32 Shield V1 breaks out **all useful GPIO pins** (bootstrapping pins like GPIO11 excluded) through both **terminal block connectors** for permanent wiring and **male pin headers** for Dupont jumper wire access. It supports both the **ESP32 DevKit C** and **ESP32-S** variants — both fit into the onboard 2×19 socket pins.
 
